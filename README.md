@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi, I'm Percy 👋
 
-<!--
-**PercyBosch/PercyBosch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Junior DevOps Engineer  
+☁️ AWS | Terraform | Docker | Linux | CI/CD  
+🎓 AWS Certified Cloud Practitioner | AWS Solutions Architect Associate
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+
+**Cloud:**  
+AWS (EC2, S3, IAM, VPC, ECS, CloudFront)
+
+**Infrastructure as Code:**  
+Terraform
+
+**Containers:**  
+Docker
+
+**Operating Systems:**  
+Linux (CentOS, Ubuntu)
+
+**Other Tools:**  
+Git, GitHub, VS Code
+
+---
+
+## 📂 Featured Projects
+
+### 🏗 Terraform Scalable Web Infrastructure
+- Custom VPC
+- Public Subnets
+- Auto Scaling Group
+- Load Balancer
+
+### 🐳 Dockerized MongoDB Backup System
+- MongoDB container
+- S3 Backup integration
+- ECS Task Definition
+
+### 🌍 Cloud Resume Challenge
+- Hosted on AWS
+- CloudFront + HTTPS
+- Infrastructure as Code
+
+---
+
+## 🎯 Current Goals
+
+- Strengthen AWS Architecture skills  
+- Master CI/CD pipelines  
+- Build production-ready cloud systems  
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn:  
+Email: percy@cloudcentrix.co.za
