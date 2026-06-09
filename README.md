@@ -1,59 +1,96 @@
-# Hi, I'm Percy 👋
+# Hi, I'm Percy Bosch 👋
 
-🚀 Junior DevOps Engineer  
-☁️ AWS | Terraform | Docker | Linux | CI/CD  
+🚀 Junior DevOps Engineer | Cloud & Infrastructure Enthusiast  
+☁️ AWS | Terraform | Docker | Linux | CI/CD Pipelines  
 🎓 AWS Certified Cloud Practitioner | AWS Solutions Architect Associate
 
 ---
 
-## 🔧 Tech Stack
+## 👨‍💻 About Me
 
-**Cloud:**  
-AWS (EC2, S3, IAM, VPC, ECS, CloudFront)
+I am a Junior DevOps Engineer focused on building scalable, secure, and automated cloud infrastructure.
 
-**Infrastructure as Code:**  
-Terraform
+I enjoy working with AWS and Infrastructure as Code to design real-world systems that are reliable, repeatable, and production-ready.
 
-**Containers:**  
-Docker
-
-**Operating Systems:**  
-Linux (CentOS, Ubuntu)
-
-**Other Tools:**  
-Git, GitHub, VS Code
+Currently, I am actively building client and personal projects to strengthen my skills in cloud architecture, automation, and deployment pipelines.
 
 ---
 
-## 📂 Featured Projects
+## 🧰 Tech Stack
 
-### 🏗 Terraform Scalable Web Infrastructure
-- Custom VPC
-- Public Subnets
-- Auto Scaling Group
-- Load Balancer
+**☁️ Cloud Platforms**  
+AWS (EC2, S3, IAM, VPC, ECS, CloudFront, Route 53, CloudWatch, ACM)
+
+**⚙️ Infrastructure as Code**  
+Terraform (modules, environments, remote state basics)
+
+**🐳 Containers & DevOps**  
+Docker, ECS, basic container orchestration
+
+**🖥️ Operating Systems**  
+Linux (Ubuntu, CentOS), Windows Server basics
+
+**🔧 Tools & Workflow**  
+Git, GitHub, VS Code, CI/CD fundamentals, Bash scripting
+
+---
+
+## 📌 Featured Projects
+
+### 🏗️ Red Pen Property Management Platform (Client Project)
+Production-style web application built for a real client.
+- Cloud-based hosting architecture
+- Scalable and modular infrastructure design
+- Focus on reliability, deployment readiness, and maintainability
+- Includes environment-based configuration and deployment planning
+
+---
+
+### 🛍️ GiftGuardian E-Commerce Platform
+Full-stack online gift shop system.
+- Product catalogue and basic e-commerce flow
+- Hosted and deployed on AWS
+- Focus on user experience and cloud deployment structure
+- Early-stage DevOps integration
+
+---
+
+### 📊 MeritFlow Web Application
+Internal workflow / management system.
+- Web application architecture design
+- Deployment and hosting setup
+- Structured for scalability and future CI/CD integration
+
+---
+
+### 🏗️ Terraform Scalable Cloud Infrastructure
+Cloud architecture project simulating production workloads.
+- Custom VPC with public subnets
+- Auto Scaling Group + Load Balancer
+- Modular Terraform structure
+- Infrastructure lifecycle automation
+
+---
 
 ### 🐳 Dockerized MongoDB Backup System
-- MongoDB container
-- S3 Backup integration
-- ECS Task Definition
-
-### 🌍 Cloud Resume Challenge
-- Hosted on AWS
-- CloudFront + HTTPS
-- Infrastructure as Code
+Automated database backup solution.
+- Docker containerized MongoDB setup
+- S3 backup integration
+- ECS task definition experience
+- Focus on automation and reliability
 
 ---
 
-## 🎯 Current Goals
+## 🎯 Current Focus
 
-- Strengthen AWS Architecture skills  
-- Master CI/CD pipelines  
-- Build production-ready cloud systems  
+- Advanced AWS architecture patterns  
+- CI/CD pipelines (GitHub Actions / AWS pipelines)  
+- Production-grade Terraform modules  
+- Real-world DevOps workflows  
 
 ---
 
-## 📫 Connect With Me
+## 📫 Contact
 
-LinkedIn:  
-Email: percy@cloudcentrix.co.za
+📧 Email: percy@cloudcentrix.co.za  
+💼 LinkedIn: https://www.linkedin.com/in/percy-bosch-7775853b1/
