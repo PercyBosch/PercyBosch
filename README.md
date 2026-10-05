@@ -92,5 +92,5 @@ Automated database backup solution.
 
 ## 📫 Contact
 
-📧 Email: percy.bosch@up.ac.za
+📧 Email: percy.bosch@up.ac.za  
 💼 LinkedIn: https://www.linkedin.com/in/percy-bosch-7775853b1/
